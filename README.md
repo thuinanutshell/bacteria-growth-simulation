@@ -1,1 +1,1 @@
-# bacteria-growth-simulation
+# Bacteria Growth Simulation (Reaction-Diffusion)
