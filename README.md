@@ -22,3 +22,10 @@ Next, the bacteria that survive grow to $b_t(1+g_b)$. Finally, the bacteria diff
 
 https://github.com/user-attachments/assets/523b58b2-ca41-45ae-8537-4caf9ff60f61
 
+https://github.com/user-attachments/assets/81e0ef8d-ccf6-4ae9-a830-a1d4b02903a8
+
+https://github.com/user-attachments/assets/8787f06f-5dd7-4276-84f1-82a7023b2084
+
+
+
+
