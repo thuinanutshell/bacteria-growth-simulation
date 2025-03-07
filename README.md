@@ -17,3 +17,8 @@ $$\min(1,\frac{f_t}{c_bb})$$
 If the available food is less than the required food, only a fraction of bacteria survive. The bacteria that do not get to eat will die in the starvation step.
 
 Next, the bacteria that survive grow to $b_t(1+g_b)$. Finally, the bacteria diffuses following the same rule as the food.
+
+## Some Results From Empirical Analysis
+
+https://github.com/user-attachments/assets/523b58b2-ca41-45ae-8537-4caf9ff60f61
+
